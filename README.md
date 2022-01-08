@@ -2,7 +2,7 @@
 
 ![Image Title](OverviewPicDeliverable3.png)
 
-#### Overview of Project
+### Overview of Project
 This project analyzes the Kickstarter Campaign data to uncover trends in relation to the launch date and the funding goals for plays. The report includes visualized campaign outcomes based on launch dates and funding goals.The purpose of this project is to provide an analysis to Louise so she can decide the best time of the year and the funding goal to establish for her next campaign.
 
 ![Image Title](https://github.com/DawnWalker12/-kickstarter-analysis-/blob/main/Theater_Outcomes_vs_Launch.png)
@@ -11,22 +11,23 @@ This project analyzes the Kickstarter Campaign data to uncover trends in relatio
 
 ![Image Title](https://github.com/DawnWalker12/-kickstarter-analysis-/blob/main/Outcomes_vs_Goals.png)
 
-#### Analysis and Challenges
+### Analysis and Challenges
 I performed this analysis using pivot charts,pivot tables, and vba code.I encountered challenges with basic syntex errors but was able to overcome the challenge by reviewing the module material again.
 
 
-#### Results
-Based on Outcomes based on Launch Date, we can determine the following:
 
-*1. Very few (no more than 7) of the Plays in the Kickstarter Campaigns were canceled
+### Results
+Based on "Outcomes based on LAUNCH DATE" tables and charts, we can determine the following:
 
-*2. May and June were the most successful months. 
+	*1. Very few (no more than 7) of the Plays in the Kickstarter Campaigns were canceled
+
+	*2. May and June were the most successful months. 
 	
 
 
 
-Based on Outcomes based on Goals, we can determine the following:
-1.
+Based on "Outcomes based on GOALS" tables amd charts, we can determine the following:
+	*1. Plays with a funding goal $5000 or less were the most successful
 
 
 The month that launched the most successful Kickstarter campaigns was May. However, January, June, July and October all had roughly the same number of failed campaigns launched. This can be determined by examining the points along the trend lines of the chart. As you hover over each point with your mouse pointer, a tooltip appears with the corresponding information.
