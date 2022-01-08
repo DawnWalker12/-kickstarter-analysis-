@@ -19,22 +19,26 @@ I performed this analysis using pivot charts,pivot tables, and vba code.I encoun
 ### Results
 Based on "Outcomes based on LAUNCH DATE" tables and charts, we can determine the following:
 
-	*1. Very few (no more than 7) of the Plays in the Kickstarter Campaigns were canceled
+	1. Very few (no more than 7) of the Plays in the Kickstarter Campaigns were canceled
 
-	*2. May and June were the most successful months. 
+	2. May and June launched the most successful campaigns. 
+	
+	3. May, June, July and October all had roughly the same number of failed campaigns launched.
 	
 
 
 
 Based on "Outcomes based on GOALS" tables amd charts, we can determine the following:
-	*1. Plays with a funding goal $5000 or less were the most successful
+	
+	1.Plays with a funding goal $5000 or less were the most successful
+	
 
 
-The month that launched the most successful Kickstarter campaigns was May. However, January, June, July and October all had roughly the same number of failed campaigns launched. This can be determined by examining the points along the trend lines of the chart. As you hover over each point with your mouse pointer, a tooltip appears with the corresponding information.
+### Summary of the limitations of the dataset
+I found no limitations to the dataset.
 
-#### Summary of the limitations of the dataset
-
-#### Recommendation for additional tables or graphs 
+### Recommendation for additional tables or graphs 
+The tables and graphs were sufficient for this analsis.
 
 
 
