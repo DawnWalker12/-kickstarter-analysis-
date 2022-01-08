@@ -4,14 +4,14 @@
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
 ##### Purpose
-## Background
-## Analysis and Challenges
+##### Background
+##### Analysis and Challenges
 Challenges or difficulties that were encountered, and how they were overcome, are well explained. If there were no difficulties, describe any possible challenges or difficulties that could be encountered (2 pt).
-## Results
+##### Results
 Two conclusions are made about the Theater Outcomes by Launch Date 
 One conclusion is made about the Outcomes based on Goals 
-## Summary of the limitations of the dataset
-## Recommendation for additional tables or graphs 
+##### Summary of the limitations of the dataset
+##### Recommendation for additional tables or graphs 
 
 
 
