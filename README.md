@@ -1,8 +1,9 @@
 ## Overview, Challenges and Results of the analysis for the Kickstarter Campaign 
+
+![Image Title](OverviewPicDeliverable3.png)
+
 #### Overview
 #### 2 images You can display an image by adding ! and wrapping the alt text in[ ]. Then wrap the link for the image in parentheses ().
-![OverviewPicDeliverable3.png]
-
 #### Purpose
 #### Background
 #### Analysis and Challenges
