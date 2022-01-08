@@ -2,27 +2,30 @@
 
 ![Image Title](OverviewPicDeliverable3.png)
 
-#### Overview
-This project analyzes the Kickstarter Campaign data to uncover trends in relation to the launch date and the funding goals for plays. The report includes visualized campaign outcomes based on launch dates and funding goals.
+#### Overview of Project
+This project analyzes the Kickstarter Campaign data to uncover trends in relation to the launch date and the funding goals for plays. The report includes visualized campaign outcomes based on launch dates and funding goals.The purpose of this project is to provide an analysis to Louise so she can decide the best time of the year and the funding goal to establish for her next campaign.
 
 ![Image Title](https://github.com/DawnWalker12/-kickstarter-analysis-/blob/main/Theater_Outcomes_vs_Launch.png)
 
 
-#### Purpose
-The purpose of this project is to provide an analysis to Louise so she can decide the best time and the funding goal to set for her next campaign.
 
-#### Background
+![Image Title](https://github.com/DawnWalker12/-kickstarter-analysis-/blob/main/Outcomes_vs_Goals.png)
 
 #### Analysis and Challenges
-We have found that while there are only a total of 1393 Kickstarter campaigns launched. 
-May and June were the most successful months.
+I performed this analysis using pivot charts,pivot tables, and vba code.I encountered challenges with basic syntex errors but was able to overcome the challenge by reviewing the module material again.
 
-Challenges or difficulties that were encountered, and how they were overcome, are well explained. If there were no difficulties, describe any possible challenges or difficulties that could be encountered (2 pt).
 
 #### Results
-Two conclusions are made about the Theater Outcomes by Launch Date 
+Based on Outcomes based on Launch Date, we can determine the following:
+	1. None of the Plays in Kickstarter Campaigns were canceled.
+	2. May and June were the most successful months. 
+	
 
-One conclusion is made about the Outcomes based on Goals 
+Based on Outcomes based on Goals, we can determine the following:
+1.
+
+
+The month that launched the most successful Kickstarter campaigns was May. However, January, June, July and October all had roughly the same number of failed campaigns launched. This can be determined by examining the points along the trend lines of the chart. As you hover over each point with your mouse pointer, a tooltip appears with the corresponding information.
 
 #### Summary of the limitations of the dataset
 
