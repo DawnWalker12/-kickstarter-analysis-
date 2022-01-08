@@ -12,7 +12,7 @@ This project analyzes the Kickstarter Campaign data to uncover trends in relatio
 ![Image Title](https://github.com/DawnWalker12/-kickstarter-analysis-/blob/main/Outcomes_vs_Goals.png)
 
 ### Analysis and Challenges
-I performed this analysis using pivot charts,pivot tables, and vba code.I encountered challenges with basic syntex errors but was able to overcome the challenge by reviewing the module material again.
+I performed this analysis using pivot charts, pivot tables, and vba code. I encountered a minor challenge with basic syntax errors but was able to overcome the challenge by reviewing the module material again.
 
 
 
