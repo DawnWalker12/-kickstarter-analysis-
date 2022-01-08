@@ -17,9 +17,13 @@ I performed this analysis using pivot charts,pivot tables, and vba code.I encoun
 
 #### Results
 Based on Outcomes based on Launch Date, we can determine the following:
-	1. None of the Plays in Kickstarter Campaigns were canceled.
-	2. May and June were the most successful months. 
+
+*1. Very few (no more than 7) of the Plays in the Kickstarter Campaigns were canceled
+
+*2. May and June were the most successful months. 
 	
+
+
 
 Based on Outcomes based on Goals, we can determine the following:
 1.
